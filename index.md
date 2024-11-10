@@ -56,5 +56,6 @@ I am dedicated to advancing my skills in:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sathishdusharla&show_icons=true&theme=default&hide=stars&count_private=true)
 
 ---
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 Feel free to explore my work, connect, or collaborate on projects. Let’s make something amazing together!
